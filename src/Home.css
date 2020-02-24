@@ -1,0 +1,16 @@
+.sol-taraf {
+  height: 1000px;
+  background-color: rgb(228, 220, 222);
+}
+.sag-taraf {
+  height: 1000px;
+  background-color: rgb(186, 229, 229);
+}
+
+.foto
+{
+  width: 50%;
+  border-radius: 100%;
+  margin-top: 70px;
+  margin-left: 70px;
+}
