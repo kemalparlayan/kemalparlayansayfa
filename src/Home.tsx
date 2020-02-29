@@ -57,9 +57,11 @@ class Home extends React.Component<myProps,myState>{
     <>
     <div className="container">
       <div className="row">
-        <div className="col-4 sol-taraf">
-          <img src={require("./blank-profile-picture.png")} className="foto"></img>
-        </div>
+        <aside className="col-4 sol-taraf">
+          <div className="foto-container">
+          <img src={require("./profil-foto.jpg")} className="foto"></img>
+          </div>
+        </aside>
         <div className="col-8 sag-taraf">
           <p>1.Sayıyı Giriniz:</p>
             <input id="birinciSayi" type="text" onChange={this.BirinciSayiDegisti} value={this.state.ilkSayi}></input>
