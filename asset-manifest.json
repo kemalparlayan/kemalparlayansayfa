@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/kemalparlayansayfa/static/css/main.c5e6c98f.chunk.css",
+    "main.js": "/kemalparlayansayfa/static/js/main.197c22a1.chunk.js",
+    "main.js.map": "/kemalparlayansayfa/static/js/main.197c22a1.chunk.js.map",
+    "runtime-main.js": "/kemalparlayansayfa/static/js/runtime-main.b1611b32.js",
+    "runtime-main.js.map": "/kemalparlayansayfa/static/js/runtime-main.b1611b32.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/kemalparlayansayfa/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.362abcff.chunk.js": "/kemalparlayansayfa/static/js/2.362abcff.chunk.js",
+    "static/js/2.362abcff.chunk.js.map": "/kemalparlayansayfa/static/js/2.362abcff.chunk.js.map",
+    "index.html": "/kemalparlayansayfa/index.html",
+    "precache-manifest.da00af257b6ceee33b04c2c79736ff56.js": "/kemalparlayansayfa/precache-manifest.da00af257b6ceee33b04c2c79736ff56.js",
+    "service-worker.js": "/kemalparlayansayfa/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/kemalparlayansayfa/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.c5e6c98f.chunk.css.map": "/kemalparlayansayfa/static/css/main.c5e6c98f.chunk.css.map",
+    "static/js/2.362abcff.chunk.js.LICENSE.txt": "/kemalparlayansayfa/static/js/2.362abcff.chunk.js.LICENSE.txt",
+    "static/media/profil-foto.jpg": "/kemalparlayansayfa/static/media/profil-foto.f5823f74.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1611b32.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.362abcff.chunk.js",
+    "static/css/main.c5e6c98f.chunk.css",
+    "static/js/main.197c22a1.chunk.js"
+  ]
+}
